@@ -33,7 +33,7 @@
     "@vitejs/plugin-vue": "^6.0.0",
     "@vue/tsconfig": "^0.7.0",
     "jsdom": "^26.1.0",
-    "typescript": "^5.8.3",
+    "typescript": "^5.9.2",
     "vite": "6.3.5",
     "vite-plugin-pwa": "^1.0.1",
     "workbox-core": "^7.3.0",
