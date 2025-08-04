@@ -1,0 +1,206 @@
+/* Black and White Theme for Tandoor Recipes */
+:root {
+    /* Bootstrap color overrides */
+    --blue: #666666;
+    --indigo: #555555;
+    --purple: #444444;
+    --pink: #777777;
+    --red: #333333;
+    --orange: #888888;
+    --yellow: #999999;
+    --green: #777777;
+    --teal: #666666;
+    --cyan: #555555;
+    
+    /* Primary colors */
+    --primary: #333333;
+    --secondary: #666666;
+    --success: #777777;
+    --info: #555555;
+    --warning: #888888;
+    --danger: #222222;
+    --light: #f8f9fa;
+    --dark: #212529;
+    
+    /* Tandoor specific colors */
+    --tandoor-primary: #333333;
+    --tandoor-secondary: #666666;
+    --tandoor-accent: #999999;
+    
+    /* Background colors */
+    --bg-primary: #ffffff;
+    --bg-secondary: #f5f5f5;
+    --bg-tertiary: #eeeeee;
+    
+    /* Text colors */
+    --text-primary: #212529;
+    --text-secondary: #6c757d;
+    --text-muted: #999999;
+    
+    /* Border colors */
+    --border-color: #dee2e6;
+    --border-light: #e9ecef;
+    --border-dark: #adb5bd;
+}
+
+/* Override specific elements */
+.btn-primary {
+    background-color: #333333 !important;
+    border-color: #333333 !important;
+}
+
+.btn-secondary {
+    background-color: #666666 !important;
+    border-color: #666666 !important;
+}
+
+.btn-success {
+    background-color: #777777 !important;
+    border-color: #777777 !important;
+}
+
+.btn-info {
+    background-color: #555555 !important;
+    border-color: #555555 !important;
+}
+
+.btn-warning {
+    background-color: #888888 !important;
+    border-color: #888888 !important;
+}
+
+.btn-danger {
+    background-color: #222222 !important;
+    border-color: #222222 !important;
+}
+
+/* Card and component styling */
+.card {
+    border-color: #dee2e6 !important;
+}
+
+.card-header {
+    background-color: #f8f9fa !important;
+    border-bottom-color: #dee2e6 !important;
+}
+
+/* Navigation styling */
+.navbar {
+    background-color: #333333 !important;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+/* Form styling */
+.form-control {
+    border-color: #ced4da !important;
+}
+
+.form-control:focus {
+    border-color: #333333 !important;
+    box-shadow: 0 0 0 0.2rem rgba(51, 51, 51, 0.25) !important;
+}
+
+/* Alert styling */
+.alert-primary {
+    background-color: #f8f9fa !important;
+    border-color: #dee2e6 !important;
+    color: #212529 !important;
+}
+
+.alert-success {
+    background-color: #f8f9fa !important;
+    border-color: #dee2e6 !important;
+    color: #212529 !important;
+}
+
+.alert-info {
+    background-color: #f8f9fa !important;
+    border-color: #dee2e6 !important;
+    color: #212529 !important;
+}
+
+.alert-warning {
+    background-color: #f8f9fa !important;
+    border-color: #dee2e6 !important;
+    color: #212529 !important;
+}
+
+.alert-danger {
+    background-color: #f8f9fa !important;
+    border-color: #dee2e6 !important;
+    color: #212529 !important;
+}
+
+/* Badge styling */
+.badge-primary {
+    background-color: #333333 !important;
+}
+
+.badge-secondary {
+    background-color: #666666 !important;
+}
+
+.badge-success {
+    background-color: #777777 !important;
+}
+
+.badge-info {
+    background-color: #555555 !important;
+}
+
+.badge-warning {
+    background-color: #888888 !important;
+}
+
+.badge-danger {
+    background-color: #222222 !important;
+}
+
+/* Progress bar styling */
+.progress-bar {
+    background-color: #333333 !important;
+}
+
+/* Link styling */
+a {
+    color: #333333 !important;
+}
+
+a:hover {
+    color: #222222 !important;
+}
+
+/* Table styling */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f8f9fa !important;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e9ecef !important;
+}
+
+/* Custom Tandoor elements */
+.recipe-card {
+    border: 1px solid #dee2e6 !important;
+    background-color: #ffffff !important;
+}
+
+.recipe-card:hover {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+/* Sidebar styling */
+.sidebar {
+    background-color: #f8f9fa !important;
+    border-right: 1px solid #dee2e6 !important;
+}
+
+/* Footer styling */
+.footer {
+    background-color: #333333 !important;
+    color: #ffffff !important;
+}
+

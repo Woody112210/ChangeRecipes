@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://tandoor.dev"><img src="https://github.com/vabene1111/recipes/raw/develop/docs/logo_color.svg" height="256px" width="256px"></a>
+  <a href="#"><img src="https://github.com/vabene1111/recipes/raw/develop/docs/logo_color.svg" height="256px" width="256px"></a>
   <br>
-  Tandoor Recipes
+  ChangeRecipes
   <br>
 </h1>
 
-<h4 align="center">The recipe manager that allows you to manage your ever growing collection of digital recipes.</h4>
+<h4 align="center">A black and white themed recipe manager - a modified version of Tandoor Recipes.</h4>
 
 <p align="center">
 <a href="https://github.com/vabene1111/recipes/actions" target="_blank" rel="noopener noreferrer"><img src="https://github.com/vabene1111/recipes/workflows/Continuous%20Integration/badge.svg?branch=master" ></a>

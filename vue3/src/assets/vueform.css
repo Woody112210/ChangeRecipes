@@ -1,10 +1,10 @@
 :root, :before, :after, * {
-  --vf-primary: #b98766;
-  --vf-primary-darker: #b55e4f;
-  --vf-danger: #a7240e;
-  --vf-danger-lighter: #eaaa21;
-  --vf-success: #82aa8b;
-  --vf-success-lighter: #385f84;
+  --vf-primary: #333333;
+  --vf-primary-darker: #222222;
+  --vf-danger: #111111;
+  --vf-danger-lighter: #888888;
+  --vf-success: #777777;
+  --vf-success-lighter: #444444;
 
   --vf-ring-width: 0;
   --vf-ring-color: #673AB766;
